@@ -9,6 +9,10 @@ img {
     padding-top: 10px;
 }
 
+.recipe {
+    text-align: left;
+}
+
 /* Navigation stuff below */
 
 #nav {
